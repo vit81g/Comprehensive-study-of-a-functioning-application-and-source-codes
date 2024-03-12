@@ -96,4 +96,4 @@ services:
 
 1. Подготовлен отчёт.
 2. Подготовлены рекомендации по улучшению процесса.
-# Comprehensive-study-of-a-functioning-application-and-source-codes
+
